@@ -2,30 +2,7 @@
 include './db/Database.php';
 include './config/config.php';
 
-//Database::createnewobject();
 
-//echo $config->applicationtitle;
- //echo $config->applicationversion;
-//$config = new config();
-//$config::$applicationtitle = "new db";
-//echo '<br>';
-
-//echo config::$applicationtitle;
-
-//$database = new Database();
-//$database->query("insert into testhr1.users(email,password)
-            //values('pesho@mail.bg', 'ihopeso')");
-//var_dump (($database->query("select * from testhr1.users"))->fetch());
-//$database->numberofconnection();
-//$database->showconnectionnumber();        
-//var_dump($database->fetch());
-//include './config/config1.php';
-//include(db/Database1.php);
-//include '.db/Database.php';
-//include (config/config.php);
-//$database= new database();
-//$database1->query1("insert into employees(first_name, last_name, email, password, age)
-//values ('Petar', 'Nikolov', 'pesho@abv.bg', '12345678', '55')");
 ?>
 
 <!DOCTYPE html>
